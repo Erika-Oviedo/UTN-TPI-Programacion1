@@ -25,29 +25,36 @@ tp-paises/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/usuario/tp-paises.git
+git clone https://github.com/Erika-Oviedo/UTN-TPI-Programacion1
 cd tp-paises
 
 # Ejecutar el programa
 python main.py
 ```
 
-No se requieren librerías externas. Solo se usa la librería estándar de Python (`csv`, `os`).
+Librerías utilizadas:
+
+Módulo	          |                 Tipo	             |     ¿Hay que instalarlo?
+------------------|------------------------------------|--------------------------------
+unicodedata	      |          Biblioteca estándar	     |             No
+os	              |          Biblioteca estándar	     |             No
+questionary	      |          Biblioteca externa	       |             Sí
+Choice	          |          Clase de questionary	     | Se instala junto con questionary
 
 ---
 
 ##  Funcionalidades
 
-| Opción | Descripción |
-|--------|-------------|
-| 1 | Agregar un país (con validaciones) |
-| 2 | Actualizar población y superficie |
-| 3 | Buscar país por nombre (parcial o exacto) |
-| 4 | Filtrar por continente / población / superficie |
-| 5 | Ordenar por nombre, población o superficie (asc/desc) |
-| 6 | Ver estadísticas del dataset |
-| 7 | Mostrar todos los países |
-| 0 | Salir |
+| Opción | Descripción                                           |
+|--------|-------------------------------------------------------|
+| 1      | Agregar un país (con validaciones)                    |
+| 2      | Actualizar población y superficie                     |
+| 3      | Buscar país por nombre (parcial o exacto)             |
+| 4      | Filtrar por continente / población / superficie       |
+| 5      | Ordenar por nombre, población o superficie (asc/desc) |
+| 6      | Ver estadísticas del dataset                          |
+| 7      | Mostrar todos los países                              |
+| 8      | Salir                                                 |
 
 ---
 
@@ -63,7 +70,7 @@ Seleccioná una opción: 1
   Superficie (km²): 916445
   Continente: América
 
-   País 'Venezuela' agregado correctamente.
+  País 'Venezuela' agregado correctamente.
 ```
 
 ### Buscar por nombre
@@ -128,14 +135,14 @@ Japón,125800000,377975,Asia
 
 ##  Integrantes
 
-| Nombre | Responsabilidades |
-|--------|-------------------|
+| Nombre                | Responsabilidades                                        |
+|-----------------------|----------------------------------------------------------|
 | [Fabiana           1] | archivo_csv.py · agregar · actualizar · ordenar · README |
-| [Erika Oviedo      2] | main.py · buscar · filtros · estadísticas · informe PDF |
+| [Erika Oviedo      2] | main.py · buscar · filtros · estadísticas · informe PDF  |
 
 ---
 
 ##  Links
 
 - 📹 **Video demostrativo:** [insertar link]
-- 📄 **Informe PDF:** [insertar link o adjuntar en el repositorio]
+- 📄 **Informe PDF:** [https://docs.google.com/document/d/1asUS57lho5tSbdxc4qi9IEG-0ALq7Wvqa2U9PmKA5GE/edit?usp=sharing]
