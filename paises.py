@@ -340,7 +340,7 @@ def menu_filtros(paises):
 
 
 # =============================================================================
-# ORDENAMIENTO — BUBBLE SORT
+# ORDENAMIENTO 
 # =============================================================================
 
 def ordenar_burbuja(paises, criterio, reverso=False):
