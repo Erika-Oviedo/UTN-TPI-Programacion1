@@ -137,7 +137,7 @@ Japón,125800000,377975,Asia
 
 | Nombre                | Responsabilidades                                        |
 |-----------------------|----------------------------------------------------------|
-| [Fabiana           1] | archivo_csv.py · agregar · actualizar · ordenar · README |
+| [Fabiana Rodriguez 1] | archivo_csv.py · agregar · actualizar · ordenar · README |
 | [Erika Oviedo      2] | main.py · buscar · filtros · estadísticas · informe PDF  |
 
 ---
