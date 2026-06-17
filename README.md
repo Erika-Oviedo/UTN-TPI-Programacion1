@@ -144,5 +144,6 @@ Japón,125800000,377975,Asia
 
 ##  Links
 
-- 📹 **Video demostrativo:** [insertar link]
+- 📹 **Video demostrativo:** [https://youtu.be/Ry0U_dH-X4E]
 - 📄 **Informe PDF:** [https://docs.google.com/document/d/1asUS57lho5tSbdxc4qi9IEG-0ALq7Wvqa2U9PmKA5GE/edit?usp=sharing]
+- 📄 **Presentación:** [https://canva.link/svcz7195lkmkik2]
